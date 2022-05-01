@@ -1,11 +1,10 @@
 ## Oiii eu sou a Lidia Goncalves 
-  ##
- - 💌 Quem quiser entrar em contato comigo : ⤵️
-<div> 
  
-  <a href = "mailto:lhylimapahera@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Lidia-Goncalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+ <p align="left"> 
+  Sou uma Sysadmin Linux 🐧 com uma experiência em Sustentação de Ambientes Corporativos, Gestão de Servidores Linux, Virtualização, Storage, Firewalls, infraestrutura e monitoramento. Desde 2019 busco me aproximar cada vez mais de ambientes de desenvolvimento e tecnologias novas. 
+</p>
+- 🦾 Estou focada em melhorar cada vez mais minhas **Soft e Hard Skills**;
+
    <h1> 🚀 Minhas Skills</h1>
 
 <div align="center">
