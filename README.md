@@ -31,6 +31,14 @@
   
   
   Minhas Habilidades
+  
+   </a>
+
+  <br/>
+
+  <h3> Clouds </h3>
+
+  ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
 
