@@ -1,6 +1,5 @@
 ## Oiii eu sou a Lidia Goncalves 
  
- <p align="left"> 
   Sou uma Sysadmin Linux 🐧 com uma experiência em Sustentação de Ambientes Corporativos, Gestão de Servidores Linux, Virtualização, Storage, Firewalls, infraestrutura e monitoramento. Desde 2019 busco me aproximar cada vez mais de ambientes de desenvolvimento e tecnologias novas. 
 </p>
 - 🦾 Estou focada em melhorar cada vez mais minhas **Soft e Hard Skills**;
