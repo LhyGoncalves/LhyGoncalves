@@ -1,15 +1,17 @@
 ## Oiii eu sou a Lidia Goncalves 
  
-  Sou uma Sysadmin Linux 🐧 com uma experiência em Sustentação de Ambientes Corporativos, Gestão de Servidores Linux, Virtualização, Storage, Firewalls, infraestrutura e monitoramento. Desde 2019 busco me aproximar cada vez mais de ambientes de desenvolvimento e tecnologias novas. 
+  Sou Analista de Infraestrutra com Experiência em Sustentação de Ambientes Corporativos, Gestão de Servidores Linux, Virtualização, Storage, Firewalls, infraestrutura e monitoramento. Desde 2019 busco me aproximar cada vez mais de ambientes de desenvolvimento e tecnologias novas.
+  
 </p>
-- 🦾 Estou focada em melhorar cada vez mais minhas **Soft e Hard Skills**;
+
+- 🦾 Estou Focada em Melhorar cada vez Mais Minhas **Soft e Hard Skills**;
 
    <h1> 🚀 Minhas Skills</h1>
 
 <div align="center">
   <a href="https://github.com/LhyGoncalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhygoncalves&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhygoncalves&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhygoncalves&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhygoncalves&layout=compact&langs_count=7&theme=dracula"/>
     
   </a>
 
@@ -24,7 +26,7 @@
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
   
-  <h3> IAC </h3>
+  <h3> Ferramentas </h3>
 
   ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
   ![Terraform](https://img.shields.io/badge/Terraform-330F62?style=for-the-badge&logo=Terraform&logoColor=white)
@@ -56,7 +58,7 @@
   <h3> Databases </h3>
   
   ![rabbitmq](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-   ![MariaDb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+   ![SQL Server](https://img.shields.io/badge/SQLServer-003545?style=for-the-badge&logo=sqlserver&logoColor=white)
   ![MoongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
  
@@ -71,25 +73,13 @@
 <h3> Estudando ... </h3>
   </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Rafa-Rubyt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 
 </div>
 <br/>
 
-<h3> Onde Aprendo </h3>
-
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
-
-    
-  
-  
- 
 
 
