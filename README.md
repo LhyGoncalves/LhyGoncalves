@@ -1,12 +1,14 @@
 ## Oiii eu sou a Lidia Goncalves 
  
   Sou Analista de Infraestrutra com Experiência em Sustentação de Ambientes Corporativos, Gestão de Servidores Linux, Virtualização, Storage, Firewalls, infraestrutura e monitoramento. Desde 2019 busco me aproximar cada vez mais de ambientes de desenvolvimento e tecnologias novas.
-  Estudando para a Certificação AZ-900
+  
+  
+ Estudando para a Certificação AZ-900 🚀
   
   
 </p>
 
-- 🦾 Estou Focada em Melhorar cada vez Mais Minhas **Soft e Hard Skills**;
+- Estou Focada em Melhorar cada vez Mais Minhas **Soft e Hard Skills**;
 
    <h1> 🚀 Minhas Skills</h1>
 
