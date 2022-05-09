@@ -28,7 +28,7 @@
    <h3> Distribuições </h3>
 
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+  ![Windows10](https://img.shields.io/badge/Windows10-A81D33?style=for-the-badge&logo=windows10&logoColor=white)
   
   <h3> Ferramentas </h3>
 
@@ -48,16 +48,10 @@
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
   
-  <h3> Monitoramento e Metricas</h3>
-
-  ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
-  ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
-  
-  <h3> Containers e Orquestradores </h3>
+   <h3> Containers e Orquestradores </h3>
 
   ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-   ![AWS fargate](https://img.shields.io/badge/Amazon_Fargate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
   
   <h3> Databases </h3>
   
@@ -73,16 +67,7 @@
   ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-  
-<h3> Estudando ... </h3>
-  </div>
-<div style="display: inline_block"><br>
-   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Rafa-Rubyt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 
-</div>
 <br/>
 
 
