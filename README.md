@@ -3,7 +3,7 @@
   Sou Analista de Infraestrutra com Experiência em Sustentação de Ambientes Corporativos, Gestão de Servidores Linux, Virtualização, Storage, Firewalls, infraestrutura e monitoramento. Desde 2019 busco me aproximar cada vez mais de ambientes de desenvolvimento e tecnologias novas.
   
   
- Estudando para a Certificação AZ-900 🚀
+ Estudando para a Certificação AZ-900 🚀 No Programa do Centro Paula Souza Chamado Minha Chance
   
   
 </p>
